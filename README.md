@@ -2,7 +2,7 @@
 
 [YouTube Channel](https://youtube.com/Fludix)
 [Twitter](https://twitter.com/fludix_)
-[Instagram](https://instagram.com/fludix326)
+[Instagram](https://instagram.com/fludix05)
 
 -----------------
 ### $|> Downloads:
@@ -10,17 +10,22 @@
 ```markdown
 These are very important Downloads.
 Contact Fludix for the Password:
-Fludix#8937
+Fludix#0453
 ```
 
-[Fludix's Programs](https://anonfile.com/Z8M9F0h0oc/_Crack_Version_1_zip)
+[Alpha9x v.1.56](https://anonfile.com/Z8M9F0h0oc/_Crack_Version_1_zip)
 -----------------
 
 -----------------
 ### $|> Information:
 
-Alpha9x is a secret Project.
-Project AlphaNineX
+13/04/21 // 03:05 AM in Germany:
+
+Alpha9x is ready to be released!
+I have finally finished it's goodies!
+Alpha9x is basically a Crack Tool Pack which
+includes all the Cracked Tool Programs.
+# END
 
 <html>
     <head>
