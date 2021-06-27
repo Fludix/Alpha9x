@@ -14,7 +14,9 @@ The Project is protected with
 a passwort. In order to open it,
 you will have to join the Alpha9x Server.
 ```
+
 [Alpha9x Server](https://discord.gg/j74pbsC3)
+
 -----------------
 
 -----------------
