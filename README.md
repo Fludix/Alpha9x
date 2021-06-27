@@ -66,7 +66,6 @@ includes all the Cracked Tool Programs.
 
 <html>
     <head>
-        <title>Crack Anthem</title>
     </head>
 
     <body>
