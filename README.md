@@ -7,13 +7,14 @@
 -----------------
 ### $|> Downloads:
 
-```markdown
-These are very important Downloads.
-Go to my Discord Server and contact me
-through the server: [Discord Server](https://discord.gg/QFb95kX)
-```
-
 [Alpha9x v3.57](https://www.mediafire.com/file/w0kcxs8kfo746cd/Alpha9x_v3.57.zip)
+
+```markdown
+The Project is protected with
+a passwort. In order to open it,
+you will have to join the Alpha9x Server.
+```
+[Alpha9x Server](https://discord.gg/j74pbsC3)
 -----------------
 
 -----------------
