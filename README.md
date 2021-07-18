@@ -40,17 +40,3 @@ I have finally finished it's goodies!
 Alpha9x is basically a Crack Tool Pack which
 includes all the Cracked Tool Programs.
 -END-
-
-<html>
-    <head>
-    </head>
-
-    <body>
-
-        <video controls>
-            <source src="=CrackAnthem=.mp4" type="video/mp4">
-        </video>
-
-    </body>
-
-</html>
