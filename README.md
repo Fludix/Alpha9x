@@ -1,26 +1,3 @@
-## $|> April 2021
-
-[YouTube Channel](https://youtube.com/Fludix)
-
-[Twitter](https://twitter.com/fludix_)
-
-[Instagram](https://instagram.com/fludix05)
-
------------------
-### $|> Downloads:
-
-[Alpha9x v3.57](https://www.mediafire.com/file/w0kcxs8kfo746cd/Alpha9x_v3.57.zip)
-
-```markdown
-The Project is protected with
-a password. In order to open it,
-you will have to join the Alpha9x Server.
-```
-
-[Alpha9x Server](https://discord.gg/j74pbsC3)
-
------------------
-
 -----------------
 ### $|> Information:
 
