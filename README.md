@@ -1,5 +1,5 @@
 -----------------
-### $|> Information:
+### $|> Release Notes:
 
 # 27/06/21 // 05:00 PM in Germany:
 I updated the Theme/UI for the Alpha9x Website Project.
